@@ -1,4 +1,4 @@
-package Java;
+package Java.hello;
 
 public class Puppy {
 	int puppyAge;
