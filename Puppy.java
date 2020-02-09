@@ -1,7 +1,7 @@
 public class Puppy{
 	int puppyAge;
 	public Puppy(String name){
-		System.out.println("Ğ¡¹·½Ğ"+name);
+		System.out.println("Ğ¡ï¿½ï¿½ï¿½ï¿½"+name);
 	}
 
 	public void setAge(int age){
@@ -9,15 +9,15 @@ public class Puppy{
 	}
 
 	public int getAge(){
-		System.out.println("Ğ¡¹·µÄÄêÁä" + puppyAge);
+		System.out.println("Ğ¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" + puppyAge);
 		return puppyAge;
 	}
 
 	public static void main(String[] args){
-		// ´´½¨¶ÔÏó
-		Puppy wang = new Puppy("ÍôÍôÍô");
-		System.out.println("È«²¿ÊôĞÔ" + wang);
-		// Í¨¹ı·½·¨ÉèÖÃage
+		// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		Puppy wang = new Puppy("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("È«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" + wang);
+		// Í¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½age
 		wang.setAge(2);
 		// è·å–age
 		wang.getAge();
