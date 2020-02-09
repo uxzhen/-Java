@@ -1,4 +1,6 @@
-public class Puppy{
+package Java;
+
+public class Puppy {
 	int puppyAge;
 	public Puppy(String name){
 		System.out.println("С����"+name);

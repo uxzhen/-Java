@@ -1,3 +1,5 @@
+package Java;
+
 public class test {
 	// 环境配置
 	// CLASSPATH
@@ -26,7 +28,7 @@ public class test {
 
 		// 整数类型
 		// byte 1字节 = 8bat -128~127之间
-		// 
+		//
 	}
 
 }
