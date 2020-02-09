@@ -25,6 +25,9 @@ public class test {
 		int i = 1;
 		System.out.println(i + 1);
 		// java 数据类型分为基本数据类型和引用数据类型，基本数据类型有八种，除了这八种之外的所有都是引用类型
+		// baty short int long
+		// float double
+		// char boolean
 
 		// 整数类型
 		// byte 1字节 = 8bit -128~127之间
