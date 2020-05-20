@@ -1,4 +1,4 @@
-package Java.Basics;
+package Basics;
 
 public class test {
 	// 环境配置
