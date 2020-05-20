@@ -1,6 +1,7 @@
-public class Hellow {
-	
-}# 访问控制	
+# 本文档为我自己的理解，如有错误不足之处可以发送邮件到 773364650@qq.com
+
+
+# 访问控制	
 				private	私有的
 				protected	受保护的
 				public	公共的
