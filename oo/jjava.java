@@ -1,10 +1,10 @@
 package oo;
 
-public class java {
+public class jjava {
 	public static void main(String [] args) {
-		new java();
+		new jjava();
 	}
-	public java () {
+	public jjava () {
 		System.out.print("���");
 	}
 	
