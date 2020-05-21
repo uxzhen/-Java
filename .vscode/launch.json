@@ -1,0 +1,183 @@
+{
+	// 使用 IntelliSense 了解相关属性。 
+	// 悬停以查看现有属性的描述。
+	// 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+	
+		{
+			"type": "java",
+			"name": "Debug (Launch) - Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Test1<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "Basics.Test1",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-test<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "Basics.test",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Api<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "api.Api",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Puppy<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "hello.Puppy",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-hello<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "hello.hello",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Overloading<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "object.Overloading",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Penguin_qz<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "object.Penguin_qz",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-And_show<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.And_show",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Class_big<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.Class_big",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Data_time<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.Data_time",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Dog<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.Dog",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-EmployeeTest<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.EmployeeTest",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FinalizationDemo<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.FinalizationDemo",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-If_if<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.If_if",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Operation<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.Operation",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Puppy<java_73432cf5>(1)",
+			"request": "launch",
+			"mainClass": "oo.Puppy",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-TestArray<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.TestArray",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-TypeDef<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.TypeDef",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Zuo_yong_yu<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.Zuo_yong_yu",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-f_for<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.f_for",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-jjava<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.jjava",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-page<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.page",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-private_type<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.private_type",
+			"projectName": "java_73432cf5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-type<java_73432cf5>",
+			"request": "launch",
+			"mainClass": "oo.type",
+			"projectName": "java_73432cf5"
+		}
+	]
+}
