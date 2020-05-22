@@ -41,6 +41,11 @@ public class Hello {
         return "名字是:" + name;
     }
 
-
+    //    post 请求 简单计算 192.168.1.7:8080/demo4?id=88&id1=66
+    @PostMapping("/demo4")
+    public String demo4(@RequestParam(name = "id") int id, @RequestParam(name = "id1") int id1) {
+//        System.out.println(a);
+        return "求和为:" + (id+id1);
+    }
 
 }
