@@ -6,6 +6,7 @@ import javax.persistence.Id;
 //这里链接的表名
 @Entity(name = "user2")
 //@Entity
+//：指定了Entity所要映射带数据库表，其中@Table.name()用来指定映射表的表名。如果缺省@Table注释，系统默认采用类名作为映射表的表名
 public class User2 {
 //    大多数语法来自一jpa
 // id为主键 ，
